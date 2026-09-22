@@ -1,0 +1,6 @@
+**
+!Dockerfile
+!config/
+!config/paper.json
+!strategies/
+!strategies/DynamicBtc.py

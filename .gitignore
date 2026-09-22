@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.worktrees/
+__pycache__/
+*.pyc
+user_data/
+*.sqlite*
+*.log
